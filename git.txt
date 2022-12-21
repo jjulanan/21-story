@@ -5,3 +5,6 @@ git status
 git add .
 git commit -m ""
 git log
+git diff (filename)
+git checkout
+git checkout filename
