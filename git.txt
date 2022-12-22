@@ -8,3 +8,5 @@ git log
 git diff (filename)
 git checkout
 git checkout filename
+git remote add origin (url)     //https://github.com/jjulanan/21-story
+git push -u origin master
